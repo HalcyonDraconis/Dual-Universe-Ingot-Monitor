@@ -189,7 +189,7 @@ html = [[
 	<tr>
 		<th>Calcium</th>
 		<th>]]..percentCalcium..[[%</th>
-		<th>]]..massAluminium..measurement..[[</th>
+		<th>]]..massCalcium..measurement..[[</th>
 	</tr>
 	<tr>
 		<th>Chromium</th>
